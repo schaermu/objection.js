@@ -87,6 +87,6 @@
     "mysql": "^2.7.0",
     "pg": "^4.4.0",
     "source-map-support": "^0.4.3",
-    "sqlite3": "^3.0.8"
+    "sqlite3": "^3.1.8"
   }
 }
